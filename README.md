@@ -1,4 +1,4 @@
-## 📊 LeetCode Stats
+## 🧑‍💻 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/prana_5040)
 
 ## 📊 Github Stats
