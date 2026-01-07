@@ -13,7 +13,7 @@
 </p>
 
 ## 🧑‍💻 LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/prana_5040)
+![Leetcode Stats](https://leetcard.jacoblin.cool/prana5040)
 
 
 ## 🔗 Links
